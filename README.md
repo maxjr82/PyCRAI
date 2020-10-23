@@ -1,4 +1,4 @@
-# PyCRAI
+# PyCRAI - Color Rings by Aromaticity Index
 
 This is a python library to identify rings in polycyclic molecules and 
 color the rings according to its local aromaticity.
@@ -13,4 +13,4 @@ To run this script, you need:
 - numpy
 - matplotlib
 
-<img src="https://raw.githubusercontent.com/maxjr82/PyCRAI/main/7a7z_ground.png" width="400">
+<img src="https://raw.githubusercontent.com/maxjr82/PyCRAI/main/7a7z_ground.png" width="500">
